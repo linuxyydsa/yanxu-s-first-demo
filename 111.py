@@ -30,6 +30,6 @@ while True:
             break
 
     break
-    #避免死循环
+    #避免死循
     #hahahhhhhhahah
 
